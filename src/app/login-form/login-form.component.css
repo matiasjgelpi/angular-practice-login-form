@@ -1,0 +1,28 @@
+.login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 150px;
+    padding: 15px 40px 15px 40px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.create-account {
+    text-align: center;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 5px;
+    padding: 3px 40px 3px 40px ;
+    
+}
